@@ -1,4 +1,6 @@
 # 📖 Implement CSS Box Model Properties to Design Layout
+
+## 04 - Box Model Virtual Class #2
 Work with a partner to implement the following user story:
 
 * As a developer, I want to use the CSS box model properties to position four boxes inside a frame.
