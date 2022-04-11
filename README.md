@@ -31,6 +31,12 @@ The following image demonstrates the web application's appearance and functional
 
 ![Four numbered, differently colored boxes appear evenly spaced inside a larger box.](./assets/image-1.png)
 
+## Screenshot
+
+![Four numbered, differently colored boxes appear evenly spaced inside a larger box.](assets/images/screenshot.jpg)
+
+Live site [04-Box-Model live site](https://joebarbone.github.io/04-Box-Model/)
+
 ---
 
 ## 💡 Hints
